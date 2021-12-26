@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on coding with python
-- ⚡ Fun fact: I keep spiny ants. 
+- ⚡ Fun fact: I keep spiny ants. I like antkeeping and coding but I am really not a fan of sour candies. 
 
 ![image](/IMG_0077.jpg)
 
-I like antkeeping and coding but I am really not a fan of sour candies. 
+
 
 # Projects 
 - I was working on study-notes with python using appjar and it can be checked here https://github.com/joshua-park-tech/study-notes
